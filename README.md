@@ -1,17 +1,1 @@
-<table align="center" style="border-collapse: collapse; border: none; background: transparent !important;">
-  <tr style="border: none; background: transparent !important;">
-    
-  <td align="center" valign="middle" style="border: none; background: transparent !important; padding: 10px;">
-      <img width="150" height="150" alt="izquierda" src="URL_DE_TU_IMAGEN_IZQUIERDA" />
-    </td>
-    
-  <td align="center" valign="middle" style="border: none; background: transparent !important; padding: 10px;">
-      <img width="498" height="280" alt="gif" src="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22" />
-    </td>
-    
-   <td align="center" valign="middle" style="border: none; background: transparent !important; padding: 10px;">
-      <img width="150" height="150" alt="personaje" src="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535"  />
-    </td>
-
-  </tr>
-</table>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="URL_DE_TU_IMAGEN_IZQUIERDA"><source media="(prefers-color-scheme: light)" srcset="URL_DE_TU_IMAGEN_IZQUIERDA"><img alt="Izquierda" src="URL_DE_TU_IMAGEN_IZQUIERDA" width="220" height="220" style="vertical-align: middle;" /></picture>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22"><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22"><img alt="Zorro Centro" src="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22" width="498" height="280" style="vertical-align: middle;" /></picture>&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535"><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535"><img alt="Personaje Derecha" src="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535" width="220" height="220" style="vertical-align: middle;" /></picture></p>
