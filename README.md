@@ -1,1 +1,18 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="URL_DE_TU_IMAGEN_IZQUIERDA"><source media="(prefers-color-scheme: light)" srcset="URL_DE_TU_IMAGEN_IZQUIERDA"><img alt="Izquierda" src="URL_DE_TU_IMAGEN_IZQUIERDA" width="220" height="220" style="vertical-align: middle;" /></picture>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22"><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22"><img alt="Zorro Centro" src="https://github.com/user-attachments/assets/da232b9e-0fdd-4e59-8311-4346913aab22" width="498" height="280" style="vertical-align: middle;" /></picture>&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535"><source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535"><img alt="Personaje Derecha" src="https://github.com/user-attachments/assets/4077d47a-e929-48ba-80a3-3cda02436535" width="220" height="220" style="vertical-align: middle;" /></picture></p>
+<img width="590" height="190" alt="563ab15230f5bf4259f11125fd1f9c0e" src="https://github.com/user-attachments/assets/be918333-5ec0-4903-bcdf-337135cfc712" />
+<img align="right" src="https://github.com/user-attachments/assets/a742cc9c-70a5-4e8e-8d78-a5a357d7b87d" width="180" alt="Imagen derecha" />
+
+<img align="left" src="https://github.com/user-attachments/assets/2c40d2c3-86ac-461a-91d2-aef0f44b194b" width="180" alt="Imagen derecha" />
+
+<div align="center">
+
+  <br><br>
+  
+  <h1>⠀Hello there 👋</h1>
+  
+  <div align="center">hello, text hered
+    <br><br><br>
+</div>  
+  
+  <img src="https://streak-stats.demolab.com/?user=Finnentt&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
