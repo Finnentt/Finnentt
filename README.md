@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2c40d2c3-86ac-461a-91d2-aef0f44b194b" width="20%" height="200" alt="Imagen izquierda" />
+  <img src="https://github.com/user-attachments/assets/2c40d2c3-86ac-461a-91d2-aef0f44b194b" style="max-width: 20%; height: 160px;" alt="Imagen izquierda" />
 
-  <img src="https://github.com/user-attachments/assets/be918333-5ec0-4903-bcdf-337135cfc712" width="45%" height="200" alt="Imagen centro" />
+  <img src="https://github.com/user-attachments/assets/be918333-5ec0-4903-bcdf-337135cfc712" style="max-width: 50%; height: 160px;" alt="Imagen centro" />
 
-  <img src="https://github.com/user-attachments/assets/a742cc9c-70a5-4e8e-8d78-a5a357d7b87d" width="20%" height="200" alt="Imagen derecha" />
+  <img src="https://github.com/user-attachments/assets/a742cc9c-70a5-4e8e-8d78-a5a357d7b87d" style="max-width: 20%; height: 160px;" alt="Imagen derecha" />
 </div>
 
 <div align="center">
