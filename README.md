@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2c40d2c3-86ac-461a-91d2-aef0f44b194b" width="15%" alt="Imagen izquierda" />
-
-  <img src="https://github.com/user-attachments/assets/be918333-5ec0-4903-bcdf-337135cfc712" width="35%" alt="Imagen centro" />
-
+  <img src="https://github.com/user-attachments/assets/7b3ced28-1a6d-42df-b4be-95e49e4c1d98" width="80%" height="250"alt="Imagen izquierda" />
   <img src="https://github.com/user-attachments/assets/a742cc9c-70a5-4e8e-8d78-a5a357d7b87d" width="15%" alt="Imagen derecha" />
+
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Finnentt&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
+<img width="900" height="350" alt="gifs" src= />
