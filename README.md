@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/a742cc9c-70a5-4e8e-8d78-a5a357d7b87d" width="15%" alt="Imagen derecha" />
 
 </div>
-<br><br>
+<br>
 <div align="center"><h1>Hello there 👋</h1></div> 
 
 
