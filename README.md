@@ -7,7 +7,6 @@
 <p align='center'>
   <img width="25%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
 </p>
-  <br>
 Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 <br><br>
 <h1> About Me ✨ </h1>
