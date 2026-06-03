@@ -50,7 +50,3 @@ Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 <div align="center"><img src="https://streak-stats.demolab.com/?user=Finnentt&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
-
-<img width="578" height="325" alt="focs" src= />
-
-"https://github.com/user-attachments/assets/bb49806d-eb58-4cd8-b256-9d63510cc993"
