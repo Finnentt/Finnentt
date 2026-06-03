@@ -5,7 +5,7 @@
 <h1> Hello! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 <p align='center'>
-  <img width="25%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
+  <img width="22%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
 </p>
 Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 <br><br>
