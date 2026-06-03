@@ -3,9 +3,9 @@
 </div>
 
 <h1> Hello! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<img width="35%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
+
 <p align='center'>
-  
+  <img width="35%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
 </p>
   <br>
 <div size='35px'> Welcome!, Thank You for taking the time to view my GitHub Profile :smile: .
