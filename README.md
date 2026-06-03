@@ -11,7 +11,7 @@
 </div>
 <br><br><br>
 <h1> About Me ✨ </h1>
-<img width="35%" align="right" alt="Github" src="https://github.com/user-attachments/assets/7c591714-fb7b-4b61-92b4-77b3af092f09" />
+<img width="45%" align="right" alt="Github" src="https://github.com/user-attachments/assets/7c591714-fb7b-4b61-92b4-77b3af092f09" />
 
 
 - 🔭 I’m currently working on ...
