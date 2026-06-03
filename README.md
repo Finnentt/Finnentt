@@ -7,13 +7,13 @@
 <p align='center'>
   <img width="35%" align="right" alt="Github" src="https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a" />
 </p>
-  <br>
+  <br><br>
 <div size='35px'> Welcome!, Thank You for taking the time to view my GitHub Profile :smile: .
 </div>
-<br><br><br>
+<br><br>
 <h1> About Me ✨ </h1>
 <img width="45%" align="right" alt="Github" src="https://github.com/user-attachments/assets/7c591714-fb7b-4b61-92b4-77b3af092f09" />
-"https://github.com/user-attachments/assets/e6540c25-a76b-4cdb-9ea5-4553ba2c060a"
+
 
 - 🔭 I’m currently working on ...
 
@@ -25,7 +25,7 @@
 
 
 <br>
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<h1> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h1>
 <br>
 <div align="center">
   <a href="https://github.com/Finnentt?tab=repositories&q=&type=&language=python&sort="> <img width="42px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
@@ -36,7 +36,7 @@
   <a href="https://github.com/Finnentt?tab=repositories&q=&type=&language=linux&sort="> <img width="42px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg"> </a>
   <a href="https://github.com/Finnentt?tab=repositories&q=&type=&language=javascript&sort="> <img width="42px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 </div>
-<h2> Some random projects <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h2>
+<h1> Some random projects <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h1>
 
 -a
 
