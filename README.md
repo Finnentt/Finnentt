@@ -13,7 +13,7 @@ Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 <img width="45%" align="right" alt="Github" src="https://github.com/user-attachments/assets/7c591714-fb7b-4b61-92b4-77b3af092f09" />
 
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently studying & working on personal projects!
 
 - 🌱 I’m currently learning Python, AWS, Linux, Rust,etc... 
 
