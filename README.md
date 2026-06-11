@@ -15,11 +15,6 @@ Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 
 - 🔭 I’m currently studying & working on personal projects!
 
-- 🌱 I’m currently learning Python, AWS, Linux, Rust,etc... 
-
--  ... 
-
--  ... 
 
 
 <br>
@@ -36,13 +31,6 @@ Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 <h1> Random projects <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h1>
 
--a
-
--b
-
--c
-
--d
 
 <br><br>
   
