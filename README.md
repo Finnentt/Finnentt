@@ -31,10 +31,4 @@ Welcome!, Thank You for taking the time to view my GitHub Profile :smile:
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
-<h1> Random projects <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px></h1>
-
-<br><br>
-  
-<div align="center"><img src="https://streak-stats.demolab.com/?user=Finnentt&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
 
